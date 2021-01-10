@@ -9,3 +9,5 @@ test-output/
 node_modules/**
 .orig
 /JGrafcet/
+*.iml
+/.idea/
